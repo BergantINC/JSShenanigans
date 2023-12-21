@@ -1,3 +1,7 @@
+//NAVODILA
+//Odpres link https://allforteam.b-s.si/employee-hours/, na strani klikneš F12 (ali desni klik => preglej), na novem oknu ki se je prikazalo
+// kliknes na konzolo kjer kopiraš to celotno datoteko ter nato klikneš Ctrl+Enter.
+
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
